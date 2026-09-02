@@ -400,10 +400,3 @@ The underlying data ingestion, forecasting, atmospheric analysis, and backend in
 # 🌱 Vision
 
 > **VAAYU-NCR aims to move air-quality monitoring from reactive reporting to predictive environmental intelligence — helping answer not only *what the air quality is*, but *what it will become, why it is changing, and when action may be required*.**
-
----
-
-**This is much closer to the ZyraNav style you showed me.** The important difference is that I wouldn't copy ZyraNav's claims like “sub-meter accuracy,” “90%+ detection,” etc. because you don't have those results yet.
-
-Once you actually implement the model, we can add a **Results** section with real numbers, which will make the README substantially stronger than simply making up impressive-looking metrics.
-
