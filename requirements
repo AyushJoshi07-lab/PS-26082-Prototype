@@ -1,0 +1,20 @@
+**Frontend:**
+Node.js
+React
+Vite
+TypeScript
+Tailwind CSS
+Recharts
+Leaflet
+---------
+**Backend:**
+Python 3.x
+FastAPI
+Uvicorn
+Requests
+---------
+**Python-ML:**
+numpy
+pandas
+scipy
+scikit-learn
